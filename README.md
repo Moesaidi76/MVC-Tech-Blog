@@ -38,7 +38,7 @@ Mohamed Saidi
 
 ## Repository
 
-- [Project Repo](https://github.com/Moesaidi76/E-commerce-Backend)
+- [Project Repo](https://github.com/Moesaidi76/MVC-Tech-Blog
 
 ## GitHub
 
