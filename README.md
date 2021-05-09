@@ -3,8 +3,6 @@
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40Mohamed-Blue)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-## Project Title; MVC Tech Blog Site
-
 ## Description of App;
 
 This app is build for developers to shares app ideas. The idea is for multiple developer to be able to comment and and post project on the site. The site was build using 3 main languages. JavaScript, Handlebars and CSS. 
