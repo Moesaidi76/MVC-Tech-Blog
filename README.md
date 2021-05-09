@@ -1,4 +1,4 @@
-# E-commerce-mySql-backend
+# MVC Tech Blog Site
 
 ![GitHub license](https://img.shields.io/badge/Made%20by-%40Mohamed-Blue)
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
