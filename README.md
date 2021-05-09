@@ -23,8 +23,6 @@ This app is build for developers to shares app ideas. The idea is for multiple d
 This application requires Node.js. It utilizes a nodes modules called sequelize, express, mysql, and dotenv, which can be installed using node package manager. The application is deployed on Heroku.
 
 
-                node server.js
-
 ## Licence
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
